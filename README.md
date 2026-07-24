@@ -9,3 +9,7 @@ In order to run online.
 Use: https://www.programiz.com/python-programming/online-compiler/
 
 GDRIVE: https://drive.google.com/drive/folders/1Hie6lwKANPMEbL2OJZk49jbYgfIMC92a?usp=sharing
+
+Sample Runs:
+<img width="645" height="699" alt="{2B60F770-E475-4B80-B51B-2C10DCC21C94}" src="https://github.com/user-attachments/assets/36a6bb50-45d4-40fd-bc92-941ddd9adf55" />
+
