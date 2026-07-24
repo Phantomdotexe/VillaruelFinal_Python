@@ -7,3 +7,5 @@ It demonstrates the use of core Python concepts such as loops, conditionals, dic
 
 In order to run online.
 Use: https://www.programiz.com/python-programming/online-compiler/
+
+GDRIVE: https://drive.google.com/drive/folders/1Hie6lwKANPMEbL2OJZk49jbYgfIMC92a?usp=sharing
